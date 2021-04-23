@@ -1,0 +1,23 @@
+</script>
+
+
+
+git remote add origin https://github.com/shemis/fannan1sat.git
+
+
+git commit -m "new 2"
+
+$ git config --global user.email "ahmed.shemeas@gmail.com"
+
+
+
+git init git add . git remote add origin https://github.com/username/nama_repo.git git commit -m "أسم الملف" git push -u origin master --force
+
+
+
+<script src='https://github.com/shemis/fannan1sat/blob/master/new%201.js' type='text/javascript'/>
+
+
+
+
+
